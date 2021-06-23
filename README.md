@@ -17,4 +17,4 @@ Link Youtube : https://youtu.be/1f2D0pfxt7M
 ![Screenshot (1629)](https://user-images.githubusercontent.com/61089675/123049200-81b80300-d429-11eb-844b-4cae89dff849.png)
 
 
-                                                 ***** SELAMAT MENCOBA *****
+                                                ***** SELAMAT MENCOBA *****
