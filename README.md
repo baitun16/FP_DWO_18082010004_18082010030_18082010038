@@ -2,6 +2,7 @@
 
 FINAL PROJECT MATA KULIAH DATA WAREHOUSE PARALEL-A
 
+Kelompok 12 :
 1. Baitun Nadhiroh (18082010004)
 2. Zabrina Tuzzahra (18082010030)
 3. Rahayu Kusumaningtyas PW (18082010038)
